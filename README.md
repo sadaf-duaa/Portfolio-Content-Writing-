@@ -69,6 +69,7 @@ The following websites feature content written by me, including homepage copy, s
 
 | Website | Type of Copy | My Contribution |
 |----------|--------------|-----------------|
+| [GenAI Serve](https://genaiserve.com/) | AI Automation Website | Wrote website copy across all website pages, including homepage, service pages, AI product pages, industry-specific solutions, pricing plans, and FAQs. Developed clear, benefit-focused messaging to explain AI automation services and communicate their value to business audiences. |
 | https://avarozdigital.com/digital-marketing-agency-dubai/ | Service Page / Landing Page | Wrote the complete SEO-optimized landing page, including headings, service descriptions, CTAs, and conversion-focused website copy for a digital marketing agency targeting businesses in Dubai. |
 | https://arktel.ae/ | Corporate Website | Created website copy across multiple pages, including telecom service content, landing pages, and SEO-focused web copy tailored for UAE customers. |
 | https://airvon.com/ | Business Website | Developed website content that communicates the company's services, value proposition, and brand messaging while maintaining SEO best practices. |
